@@ -44,5 +44,7 @@ public class Autor {
         this.fechaMuerte = registroDatosAutor.fechaFallecimiento();
     }
 
+    public Autor(String autor) {
+    }
 }
 
